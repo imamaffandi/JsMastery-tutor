@@ -116,7 +116,7 @@ const projects = [
       "Website that i make with 3d objects using react fiber. I also use framer motion to animate content on the website.",
 
     image: gorify,
-    source_code_link: "https://imamaffandi.github.io/Gorify/",
+    source_code_link: "https://imamaffandi-gorifycell.netlify.app/",
   },
 ];
 
