@@ -14,6 +14,7 @@ import {
   portfolio,
   movieapi,
   gorify,
+  blackhole,
   threejs,
 } from "../assets";
 
@@ -117,6 +118,14 @@ const projects = [
 
     image: gorify,
     source_code_link: "https://imamaffandi-gorifycell.netlify.app/",
+  },
+  {
+    name: "Blackhole Explanation",
+    description:
+      "Website that i make with 3d objects using THREE Js. I also use AOS to animate content on the website.",
+
+    image: blackhole,
+    source_code_link: "https://imamaffandi-blackhole-explained.netlify.app/",
   },
 ];
 

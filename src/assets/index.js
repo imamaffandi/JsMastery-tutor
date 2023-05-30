@@ -21,11 +21,13 @@ import threejs from "./tech/threejs.svg";
 import portfolio from "./portofolio.png";
 import movieapi from "./movieapi.png";
 import gorify from "./gorify.png";
+import blackhole from "./blackhole.png";
 
 export {
   portfolio,
   movieapi,
   gorify,
+  blackhole,
   backend,
   mobile,
   web,
