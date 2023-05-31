@@ -5,7 +5,7 @@ import { desert } from "../assets";
 
 const Hero = () => {
   return (
-    <section className="relative w-full h-screen mx-auto ">
+    <section className="relative w-full h-full mx-auto ">
       <video
         autoPlay
         loop
