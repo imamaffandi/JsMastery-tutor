@@ -1,4 +1,4 @@
-# Starter Module / Tutor
+# First Step
 
 1.  Make a folder
 2.  open terminal and install vite  
