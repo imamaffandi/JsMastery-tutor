@@ -10,7 +10,7 @@ const Hero = () => {
         autoPlay
         loop
         muted
-        className="h-full object-cover w-full z-0 w-auto top-0 left-0 min-h-full"
+        className="h-full object-cover w-full z-0 top-0 left-0 "
       >
         <source src={desert} type="video/mp4" />
         Your browser does not support the video tag.
