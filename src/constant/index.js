@@ -109,7 +109,7 @@ const projects = [
       "My web API project that i make with pure HTML, CSS, and javascript. I use The Movie Database API to make this project.",
 
     image: movieapi,
-    source_code_link: "https://imamaffandi.github.io/api-project.github.io/",
+    source_code_link: "https://imamaffandi-api-project.netlify.app/",
   },
   {
     name: "Phone Service",
