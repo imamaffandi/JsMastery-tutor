@@ -2,7 +2,6 @@ import backend from "./paint-palette.png";
 import mobile from "./atom-symbol.png";
 import web from "./world-wide-web.png";
 
-import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import desert from "./desert.mp4";
@@ -23,7 +22,16 @@ import movieapi from "./movieapi.png";
 import gorify from "./gorify.png";
 import blackhole from "./blackhole.png";
 
+import fb from "./fb.svg";
+import gt from "./gt.svg";
+import ig from "./ig.svg";
+import tw from "./tw.svg";
+
 export {
+  fb,
+  gt,
+  ig,
+  tw,
   portfolio,
   movieapi,
   gorify,
@@ -31,7 +39,6 @@ export {
   backend,
   mobile,
   web,
-  github,
   menu,
   close,
   css,

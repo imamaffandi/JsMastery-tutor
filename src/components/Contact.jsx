@@ -4,6 +4,7 @@ import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { zoomIn } from "../utils/motion";
 import emailjs from "@emailjs/browser";
+import { ig, tw, gt } from "../assets";
 
 const Contact = () => {
   const formRef = useRef();
@@ -105,6 +106,20 @@ const Contact = () => {
           </button>
         </form>
       </motion.div>
+      <div className="flex gap-1 justify-end m-3">
+        <a
+          href="https://www.instagram.com/imamaffandi01/?hl=id"
+          target="_blank"
+        >
+          <img src={ig} alt="" />
+        </a>
+        <a href="https://twitter.com/Imamaffandi99" target="_blank">
+          <img src={tw} alt="" />
+        </a>
+        <a href="https://github.com/imamaffandi" target="_blank">
+          <img src={gt} alt="" />
+        </a>
+      </div>
     </div>
   );
 };
