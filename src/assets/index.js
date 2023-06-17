@@ -21,6 +21,7 @@ import portfolio from "./portofolio.png";
 import movieapi from "./movieapi.png";
 import gorify from "./gorify.png";
 import blackhole from "./blackhole.png";
+import resto from "./resto.png";
 
 import fb from "./fb.svg";
 import gt from "./gt.svg";
@@ -52,4 +53,5 @@ export {
   typescript,
   threejs,
   desert,
+  resto,
 };

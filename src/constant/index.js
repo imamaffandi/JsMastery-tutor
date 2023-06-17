@@ -15,6 +15,7 @@ import {
   movieapi,
   gorify,
   blackhole,
+  resto,
   threejs,
 } from "../assets";
 
@@ -126,6 +127,14 @@ const projects = [
 
     image: blackhole,
     source_code_link: "https://imamaffandi-blackhole-explained.netlify.app/",
+  },
+  {
+    name: "Restaurant Website",
+    description:
+      "Website that i make with React JS, and framer motion. I also use react elastic carousel library to make this website.",
+
+    image: resto,
+    source_code_link: "https://imamaffandi-restaurant.netlify.app/",
   },
 ];
 
