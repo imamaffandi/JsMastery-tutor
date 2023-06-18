@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js**
 
-- 👨‍💻 All of my projects are available at [imamaffandi.netlify.app](imamaffandi.netlify.app)
+- 👨‍💻 You can see all my project [imamaffandi.netlify.app](here)
 
 - 📫 How to reach me **imamaffandi715@gmail.com**
 
