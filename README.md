@@ -62,7 +62,7 @@
     ` npm install -D tailwindcss postcss autoprefixer`
     `npx tailwindcss init -p`
 
-5. Init tailwind
+5. Setup tailwind
 
 ```
 /** @type {import('tailwindcss').Config} */
@@ -91,7 +91,7 @@ module.exports = {
 };
 ```
 
-6.  init tailwind on css
+6. Setup tailwind on css
 
 ```
 @tailwind base;
