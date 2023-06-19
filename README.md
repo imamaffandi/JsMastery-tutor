@@ -72,19 +72,14 @@ module.exports = {
  theme: {
    extend: {
      colors: {
-       primary: "#101728",
-       secondary: "#9340FF",
-       tertiary: "#FF3C5F",
-       "black-100": "#100d25",
-       "black-200": "#090325",
-       "white-100": "#f3f3f3",
+       dark: "#475363",
+       darkest: "#0D1826",
+       mid: "#CBD5E1",
+       light: "#E9EFF5",
+       lightest: "#FFFFFF",
+       "brand": "#7E8A9B",
      },
-     boxShadow: {
-       card: "0px 35px 120px -15px #211e35",
-     },
-     screens: {
-       xs: "450px",
-     },
+    
    },
  },
  plugins: [],
