@@ -50,7 +50,8 @@
 4.  Install Dependencies
 
 ```
-    npm install --legacy-peer-deps @react-three/fiber
+    npm install --legacy-peer-deps
+    @react-three/fiber
     @react-three/drei
     react-tilt
     framer-motion
