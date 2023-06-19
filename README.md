@@ -43,11 +43,8 @@
 2.  open terminal and install vite  
     `npm create vite@latest ./ -- --template react`
     `npm install`
-3.  Install tailwind  
-    ` npm install -D tailwindcss postcss autoprefixer`
-    `npx tailwindcss init -p`
 
-4.  Install Dependencies
+3.  Install Dependencies
 
 ```
     npm install --legacy-peer-deps
@@ -59,6 +56,9 @@
     three
     react-scroll
 ```
+4.  Install tailwind  
+    ` npm install -D tailwindcss postcss autoprefixer`
+    `npx tailwindcss init -p`
 
 5. Init tailwind
 
