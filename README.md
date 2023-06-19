@@ -45,8 +45,9 @@
     `npm install`
 
 3.  Install Dependencies
-
+    
 ```
+    (I usually use)
     npm install --legacy-peer-deps
     @react-three/fiber
     @react-three/drei
