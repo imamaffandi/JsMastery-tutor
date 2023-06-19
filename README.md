@@ -47,8 +47,9 @@
 3.  Install Dependencies
     
 ```
-    (I usually use)
+   
     npm install --legacy-peer-deps
+     (I usually use)
     @react-three/fiber
     @react-three/drei
     react-tilt
