@@ -77,7 +77,7 @@ module.exports = {
        mid: "#CBD5E1",
        light: "#E9EFF5",
        lightest: "#FFFFFF",
-       "brand": "#7E8A9B",
+       brand: "#7E8A9B",
      },
     
    },
