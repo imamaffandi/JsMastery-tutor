@@ -49,7 +49,7 @@
 ```
    
     npm install --legacy-peer-deps
-     (I usually use)
+     (I usually use 👇)
     @react-three/fiber
     @react-three/drei
     react-tilt
