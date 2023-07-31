@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js**
 
-- 👨‍💻 You can see all my project [here](https://imamaffandi.netlify.app/)
+- 👨‍💻 You can see my project [here](https://imamaffandi.netlify.app/)
 
 - 📫 How to reach me **imamaffandi715@gmail.com**
 
@@ -40,7 +40,7 @@
 ## My First Step to build website
 
 1.  Make a folder
-2.  open terminal and install vite  
+2.  open the terminal and install Vite  
     `npm create vite@latest ./ -- --template react`
     `npm install`
 
